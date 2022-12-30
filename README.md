@@ -1,1 +1,1 @@
-# linux-cppcheck-2.6
+# linux-cppcheck-2.6 tool
